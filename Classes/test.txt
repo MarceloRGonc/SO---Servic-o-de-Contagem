@@ -1,0 +1,151 @@
+incrementar Braga:Amares:Figueiredo:123
+incrementar Braga:Amares:Ferreiros:123
+incrementar Braga:Amares:Barreiros:123
+incrementar Braga:Amares:Prozelo:123
+incrementar Braga:Amares:Caldelas:123
+incrementar Braga:Amares:Dornelas:123
+incrementar Braga:Amares:Bouro:12
+incrementar Braga:Amares:Santa Marta:123
+incrementar Braga:Amares:Goães:123
+incrementar Braga:Amares:Amares:123
+incrementar Braga:Amares:Rendufe:123
+incrementar Braga:Amares:Carrazedo:12
+incrementar Braga:Amares:Lago:12
+incrementar Braga:Braga:Adaufe:12
+incrementar Braga:Braga:São Vitor:12
+incrementar Braga:Braga:Maximinos:12
+incrementar Braga:Braga:São Vicente:12
+incrementar Braga:Braga:Crespos:12
+incrementar Braga:Braga:Celeirós:12
+incrementar Braga:Braga:Espinho:12
+incrementar Braga:Braga:Esporões:12
+incrementar Braga:Braga:Ferreiros:12
+incrementar Braga:Braga:Este:12
+incrementar Braga:Braga:Gualtar:12
+incrementar Braga:Braga:Palmeira:12
+incrementar Braga:Braga:Lamas:12
+incrementar Braga:Guimarães:Brito:12
+incrementar Braga:Guimarães:Caldelas:12
+incrementar Braga:Guimarães:Lordelo:12
+incrementar Braga:Guimarães:Moreira de Cónegos:12
+incrementar Braga:Guimarães:Ponte:12
+incrementar Braga:Guimarães:Ronfe:12
+incrementar Braga:Guimarães:São Jorge de Selho:12
+incrementar Braga:Guimarães:São Torcato:12
+incrementar Braga:Guimarães:Serzedelo:12
+incrementar Braga:Guimarães:Azurém:12
+incrementar Braga:Guimarães:Creixomil:12
+incrementar Braga:Guimarães:Mascotelos:12
+incrementar Braga:Guimarães:Gondar:12
+incrementar Braga:Fafe:Armil:12
+incrementar Braga:Fafe:Estorãos:12
+incrementar Braga:Fafe:Regadas:12
+incrementar Braga:Fafe:Ribeiros:12
+incrementar Braga:Fafe:Revelhe:12
+incrementar Braga:Fafe:Fafe:12
+incrementar Braga:Fafe:Golães:12
+incrementar Braga:Fafe:Medelo:12
+incrementar Braga:Fafe:Fornelos:12
+incrementar Braga:Fafe:Travassós:12
+incrementar Braga:Fafe:Passos:12
+incrementar Braga:Fafe:Quinchães:12
+incrementar Braga:Fafe:Vinhós:12
+incrementar Porto:Penafiel:Abragão:123
+incrementar Porto:Penafiel:Boelhe:123
+incrementar Porto:Penafiel:Bustelo:123
+incrementar Porto:Penafiel:Canelas:123
+incrementar Porto:Penafiel:Castelões:123
+agregar Braga 2 braga2.txt
+incrementar Porto:Penafiel:Irivo:123
+incrementar Porto:Penafiel:Eja:12
+incrementar Porto:Penafiel:Oldrões:123
+incrementar Porto:Penafiel:Penafiel:123
+incrementar Porto:Penafiel:Rans:123
+incrementar Porto:Penafiel:Rio Mau:123
+incrementar Porto:Penafiel:Peroselo:12
+incrementar Porto:Penafiel:Capela:12
+incrementar Porto:Valongo:Valongo:12
+agregar Braga 1 braga1.txt
+incrementar Porto:Valongo:Alfena:12
+incrementar Porto:Valongo:Ermesinde:12
+incrementar Porto:Valongo:Sobrado:12
+incrementar Porto:Valongo:Campo:12
+incrementar Porto:Trofa:Muro:12
+incrementar Porto:Trofa:Coronado:12
+incrementar Porto:Trofa:Covelas:12
+incrementar Porto:Trofa:Bougado:12
+incrementar Porto:Trofa:Alvarelhos e Guidões:12
+incrementar Porto:Amarante:Ansiães:12
+incrementar Porto:Amarante:Candemil:12
+incrementar Porto:Amarante:Fregim:12
+incrementar Porto:Amarante:Fridão:12
+agregar Braga 0 braga0.txt
+incrementar Porto:Amarante:Jazente:12
+incrementar Porto:Amarante:Pedronelo:12
+incrementar Porto:Amarante:Telões:12
+incrementar Porto:Amarante:Travanca:12
+incrementar Porto:Amarante:Louredo:12
+incrementar Porto:Amarante:Lufrei:12
+incrementar Porto:Amarante:Aboadela:12
+incrementar Porto:Amarante:Mancelos:12
+incrementar Porto:Amarante:Vila Caiz:12
+incrementar Porto:Amarante:Olo e Canadelo:12
+incrementar Porto:Gondomar:São Cosme:12
+incrementar Porto:Gondomar:Valbom:12
+incrementar Porto:Gondomar:Jovim:12
+incrementar Porto:Lousada:Aveleda:12
+incrementar Porto:Lousada:Torno:12
+incrementar Porto:Lousada:Sousela:12
+incrementar Porto:Lousada:Macieira:12
+incrementar Porto:Lousada:Meinedo:12
+incrementar Porto:Lousada:Lodares:12
+incrementar Porto:Lousada:Nevogilde:12
+incrementar Lisboa:Lourinhã:Santa Bárbara:123
+incrementar Lisboa:Lourinhã:Vimeiro:123
+incrementar Lisboa:Lourinhã:Marteleira:123
+incrementar Lisboa:Lourinhã:Reguengo Grande:123
+incrementar Lisboa:Lourinhã:Ribamar:12
+agregar Porto 1 porto1.txt
+incrementar Lisboa:Lourinhã:Atalaia:123
+incrementar Lisboa:Lourinhã:Lourinhã:123
+incrementar Lisboa:Lourinhã:Miragaia:123
+incrementar Lisboa:Lourinhã:Modelo:123
+incrementar Lisboa:Cadaval:Painho:12
+incrementar Lisboa:Cadaval:Alguber:12
+incrementar Lisboa:Cadaval:Cercal:12
+incrementar Lisboa:Cadaval:Lamas:12
+incrementar Lisboa:Cadaval:Vilar:12
+incrementar Lisboa:Cadaval:Cadaval:12
+incrementar Lisboa:Cadaval:Vermelha:12
+incrementar Lisboa:Alenquer:Olhalvo:12
+incrementar Lisboa:Alenquer:Cadafais:12
+incrementar Lisboa:Alenquer:Carregado:12
+incrementar Lisboa:Alenquer:Santana da Carnota:12
+incrementar Lisboa:Alenquer:Meca:12
+incrementar Lisboa:Alenquer:Abrigada:12
+incrementar Lisboa:Alenquer:Ota:12
+incrementar Lisboa:Lisboa:Marvilha:12
+incrementar Lisboa:Lisboa:Alvalade:12
+agregar Porto 2 porto2.txt
+incrementar Lisboa:Lisboa:Campolide:12
+incrementar Lisboa:Lisboa:Carnide:12
+incrementar Lisboa:Lisboa:Lumiar:12
+incrementar Lisboa:Lisboa:Beato:12
+incrementar Lisboa:Lisboa:Alcântra:12
+incrementar Lisboa:Lisboa:Benfica:12
+incrementar Lisboa:Oeiras:Porto Salvo:12
+incrementar Lisboa:Oeiras:Cruz Quebrada:12
+incrementar Lisboa:Oeiras:Queijas:12
+incrementar Lisboa:Oeiras:Caxias:12
+incrementar Lisboa:Oeiras:Canaxide:12
+incrementar Lisboa:Oeiras:Alges:12
+incrementar Lisboa:Odivelas:Santo Adrião:12
+incrementar Lisboa:Odivelas:Olival Basto:12
+incrementar Lisboa:Odivelas:Famões:12
+agregar Porto 0 porto0.txt
+incrementar Lisboa:Odivelas:Caneças:12
+incrementar Lisboa:Odivelas:Ramada:12
+incrementar Lisboa:Odivelas:Pontinha:12
+agregar Lisboa 1 lisboa1.txt
+agregar Lisboa 0 lisboa0.txt
+agregar Lisboa 2 lisboa2.txt
